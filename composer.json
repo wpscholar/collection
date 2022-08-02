@@ -13,5 +13,8 @@
     "psr-4": {
       "wpscholar\\": ""
     }
+  },
+  "suggest": {
+    "wp-forge/collection": "Package replaces wpscholar/collection"
   }
 }
